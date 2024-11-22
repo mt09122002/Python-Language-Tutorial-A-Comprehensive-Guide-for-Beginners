@@ -140,6 +140,11 @@ Python is an excellent starting point for coding. Its simplicity and real-world 
 3. **Where can I practice Python?**  
    Use platforms like [LeetCode](https://leetcode.com/) or [HackerRank](https://www.hackerrank.com/) to improve your skills.
 
---- 
+To get the most out of this guide:
+
+- **Read the theory**: Get familiar with each topic by reviewing our <a href="https://pythonid.com/tutorials/python-intro" target="_blank">Python Theory Page</a>.
+- **Practice with exercises**: After each topic, check out our collection of <a href="https://pythonid.com/" target="_blank">Python Practice Exercises</a>.
+
+---
 
 Start coding today and discover the endless possibilities Python offers!
